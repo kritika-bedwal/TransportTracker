@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "820530025584",
+    "firebase_url": "https://transporttracker-a20a6.firebaseio.com",
+    "project_id": "transporttracker-a20a6",
+    "storage_bucket": "transporttracker-a20a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820530025584:android:5667489f732b0842",
+        "android_client_info": {
+          "package_name": "com.example.bipin.transporttracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820530025584-7eesp12s7md9h875d402sddgh6i81t9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bipin.transporttracker",
+            "certificate_hash": "1dd694735b734d6c03ffc3f8d9213f6eb828fa1a"
+          }
+        },
+        {
+          "client_id": "820530025584-kdb9j1qd19uuh4a8770j05ev4gtahci2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdgadk0AYa1fEM3sBmP0scdsMEDTeZGrQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820530025584-kdb9j1qd19uuh4a8770j05ev4gtahci2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
